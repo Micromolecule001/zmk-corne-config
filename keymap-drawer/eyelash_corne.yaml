@@ -34,7 +34,7 @@ layers:
   - C
   - V
   - B
-  - $$mdi:keyboard-space$$
+  - MUTE
   - $$mdi:arrow-down-bold$$
   - N
   - M
